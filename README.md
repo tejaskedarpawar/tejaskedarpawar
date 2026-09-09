@@ -13,7 +13,9 @@
   <a href="mailto:tejaskedarpawar@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  <a href="https://github.com/tejaskedarpawar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -122,6 +124,18 @@ Real-time pipeline — Kafka, XGBoost, LightGBM, SMOTE, FastAPI, Docker.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tejaskedarpawar&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaskedarpawar/tejaskedarpawar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaskedarpawar/tejaskedarpawar/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/tejaskedarpawar/tejaskedarpawar/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </p>
 
 ---
