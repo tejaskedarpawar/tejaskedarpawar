@@ -101,7 +101,7 @@ Real-time pipeline — Kafka, XGBoost, LightGBM, SMOTE, FastAPI, Docker.
 </tr>
 </table>
 
-<p align="center"><i>+ KET (KKNC Employability Test) — assessment platform for KKNC Solutions</i></p>
+
 
 ---
 
