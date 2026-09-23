@@ -22,7 +22,7 @@
 
 ```yaml
 tejas:
-  founder: "KKNC Solutions — web dev & tech services"
+  founder: "KKNC Solutions - web dev & tech services"
   education: "B.Tech CS, Ramdeobaba University (RCOEM), Nagpur — Class of 2028"
   currently_building: "Tejas Code — a local AI coding agent (Ollama + VS Code)"
   currently_learning: "DSA for placement season"
