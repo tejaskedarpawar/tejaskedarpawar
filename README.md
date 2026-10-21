@@ -142,4 +142,4 @@ Real-time pipeline — Kafka, XGBoost, LightGBM, SMOTE, FastAPI, Docker.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to interesting backend/full-stack opportunities!</i></p>
+<p align="center"><i>Thanks for stopping by - always open to interesting backend/full-stack opportunities!</i></p>
